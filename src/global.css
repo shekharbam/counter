@@ -1,0 +1,20 @@
+.title {
+background: #ccc;
+padding: 20px;
+text-align: center;
+}
+
+  body {
+    padding: 0;
+    margin: 0;
+  }
+
+  .number {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .add {
+    font-size: 30px;
+    text-align: center;
+  }
